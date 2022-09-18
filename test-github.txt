@@ -1,0 +1,6 @@
+Belajar Github
+- membuat repository baru
+- membuat file baru di repository
+- menanmbah isi file
+- menghapus isi file 
+- commit

@@ -1,7 +1,7 @@
 Belajar Github
 - membuat repository baru
 - membuat file baru di repository
-- menanmbah isi file
 - menghapus isi file 
 - commit
 - membuat branch dan merge
+- melakukan push dan pull

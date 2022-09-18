@@ -4,3 +4,4 @@ Belajar Github
 - menanmbah isi file
 - menghapus isi file 
 - commit
+- membuat branch dan merge
